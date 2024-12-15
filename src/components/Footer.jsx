@@ -88,7 +88,7 @@ function Footer() {
   return (
     <FooterContainer>
       <FooterWrapper>
-        <Logo>Mayur Hegde</Logo>
+        <Logo>Molaka ajay kumar</Logo>
         <Nav>
           <NavLink href="#about">About</NavLink>
           <NavLink href="#skills">Skills</NavLink>
@@ -103,7 +103,7 @@ function Footer() {
           <SocialMediaIcon href={Bio.insta} target="display"><InstagramIcon /></SocialMediaIcon>
         </SocialMediaIcons>
         <Copyright>
-          &copy; 2024 Mayur Hegde. All rights reserved.
+          &copy; 2024 Molaka ajay kumar. All rights reserved.
         </Copyright>
 
       </FooterWrapper>
