@@ -126,9 +126,9 @@ const Navbar = () => {
       <NavbarContainer>
         <NavLogo>
           <NavSpan>&lt; </NavSpan>
-          <Span>Mayur </Span>
+          <Span>ajay </Span>
           <NavSpan>/</NavSpan>
-          <Span>Hegde </Span>
+          <Span>kumar </Span>
           <NavSpan>&gt;</NavSpan>
         </NavLogo>
         <NavItems>
